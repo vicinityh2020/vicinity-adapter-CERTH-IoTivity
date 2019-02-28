@@ -1,0 +1,6 @@
+# Exclude target folder
+target/**
+
+# Except war file
+
+!target/IotivityAdapter-0.0.1-SNAPSHOT.war
